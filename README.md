@@ -1,1 +1,1 @@
-# Syntecxhub_Python_Project_Pravalika
+# Syntecxhub_Python_Projects
